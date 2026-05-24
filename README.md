@@ -132,6 +132,9 @@ Aurora PostgreSQL for storage
 ## ECS Deployment
 Application deployed using AWS ECS Fargate.
 
+## Amazon ECR
+Docker image stored in Amazon ECR repository.
+
 #Future Improvements
 
 Advanced NLP models using Transformers
