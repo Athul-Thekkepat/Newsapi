@@ -7,6 +7,7 @@ import os
 
 load_dotenv()
 
+# Integrated News API structure
 API_KEY = os.getenv("NEWS_API_KEY")
 
 url = f"https://newsapi.org/v2/top-headlines?country=us&apiKey={API_KEY}"
