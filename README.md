@@ -129,6 +129,9 @@ AWS Lambda for serverless processing
 EventBridge for scheduling
 Aurora PostgreSQL for storage
 
+## ECS Deployment
+Application deployed using AWS ECS Fargate.
+
 #Future Improvements
 
 Advanced NLP models using Transformers
