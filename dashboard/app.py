@@ -6,7 +6,7 @@ import os
 
 load_dotenv()
 
-#Integrated data
+#Integrated 
 
 DB_USER = os.getenv("DB_USER")
 DB_PASSWORD = os.getenv("DB_PASSWORD")
