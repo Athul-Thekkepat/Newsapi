@@ -135,6 +135,10 @@ Application deployed using AWS ECS Fargate.
 ## Amazon ECR
 Docker image stored in Amazon ECR repository.
 
+## Deployment Status
+Application successfully deployed on AWS cloud.
+
+
 #Future Improvements
 
 Advanced NLP models using Transformers
