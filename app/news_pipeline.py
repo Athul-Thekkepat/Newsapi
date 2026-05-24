@@ -19,6 +19,7 @@ analyzer = SentimentIntensityAnalyzer()
 
 data = []
 
+#Implemented article extraction logic
 for article in articles:
     title = article["title"]
 
