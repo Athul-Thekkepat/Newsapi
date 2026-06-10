@@ -1,5 +1,8 @@
 # Real-Time News Sentiment Analysis Pipeline on AWS
 
+The following diagram shows the complete workflow of the news sentiment analytics pipeline.
+![Project Architecture](news architecture.png)
+
 ## Project Overview
 
 This project is a cloud-based real-time news sentiment analysis pipeline built using AWS services, PostgreSQL, Docker, and Streamlit.
