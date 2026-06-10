@@ -1,7 +1,7 @@
 # Real-Time News Sentiment Analysis Pipeline on AWS
 
 The following diagram shows the complete workflow of the news sentiment analytics pipeline.
-![Project Architecture](news architecture.png)
+![Project Architecture](news-architecture.png)
 
 ## Project Overview
 
